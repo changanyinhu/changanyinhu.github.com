@@ -1,0 +1,100 @@
+---
+layout: default
+title: 工理软件 -- 首页
+leo: this is a leo website
+---
+<div class="row leo-bg2">
+	<div class="col-md-4">
+	<h3 class="leo-title">方案中心</h3>
+	<div class="leo-well">
+	  <ul>
+	  	{% for solution in site.categories %}
+			{% capture cgName %}{{ solution | first }}{% endcapture %}
+			{% for post in solution.last %}
+				{% if cgName =='solution' %}
+					<li><a href="{{post.url}}"><span class="glyphicon glyphicon-leaf"></span>{{post.title}}  </a></li>
+				{% endif%}
+			{% endfor %}
+		{% endfor %}
+	  </ul>
+	</div>
+	</div>
+	<div class="col-md-4">
+	<h3>新闻中心</h3>
+	<div class="leo-well">
+	  <ul>
+	  	{% for news in site.categories %}
+			{% capture cgName %}{{ news | first }}{% endcapture %}
+			{% for post in news.last %}
+				{% if cgName =='news' %}
+					<li><a href="{{post.url}}"><span class="glyphicon glyphicon-leaf"></span>{{post.title}}  </a></li>
+				{% endif%}
+			{% endfor %}
+		{% endfor %}
+	  </ul>
+	</div>
+	</div>
+	<div class="col-md-4">
+	<h3 class="leo-title">快速通道</h3>
+	<div class="leo-well leo-noborder">
+	  <ul>
+	  	{% for away in site.categories %}
+			{% capture cgName %}{{ away | first }}{% endcapture %}
+			{% for post in away.last %}
+				{% if cgName =='away' %}
+					<li><a href="{{post.url}}"><span class="glyphicon glyphicon-leaf"></span>{{post.title}}  </a></li>
+				{% endif%}
+			{% endfor %}
+		{% endfor %}
+	  </ul>
+	</div>
+	</div>
+	</div>
+	<div class="row leo-bg">
+	<div class="col-md-4">
+	<h3 class="leo-title">最新案例</h3>
+	<div class="leo-well">
+	  <ul>
+	  	{% for casex in site.categories %}
+			{% capture cgName %}{{ casex | first }}{% endcapture %}
+			
+			{% for post in casex.last %}
+				{% if cgName =='casex' %}
+					<li><a href="{{post.url}}"><span class="glyphicon glyphicon-leaf"></span>{{post.title}}  </a></li>
+				{% endif%}
+			{% endfor %}
+		{% endfor %}
+	  </ul>
+	</div>
+	</div>
+	<div class="col-md-4">
+	<h3 class="leo-title">行业资讯</h3>
+	<div class="leo-well">
+	  <ul>
+	  	{% for category in site.categories %}
+			{% capture cgName %}{{ category | first }}{% endcapture %}
+			{% for post in category.last %}
+				{% if cgName =='industry' %}
+					<li><a href="{{post.url}}"><span class="glyphicon glyphicon-leaf"></span>{{post.title}}  </a></li>
+				{% endif%}
+			{% endfor %}
+		{% endfor %}
+	  </ul>
+	</div>
+	</div>
+	<div class="col-md-4">
+	<h3 class="leo-title">品牌活动</h3>
+	<div class="leo-well leo-noborder">
+	  <ul>
+	  	{% for category in site.categories %}
+			{% capture cgName %}{{ category | first }}{% endcapture %}
+			{% for post in category.last %}
+				{% if cgName =='brand' %}
+					<li><a href="{{post.url}}"><span class="glyphicon glyphicon-leaf"></span>{{post.title}}  </a></li>
+				{% endif%}
+			{% endfor %}
+		{% endfor %}
+	  </ul>
+	</div>
+	</div>
+</div>

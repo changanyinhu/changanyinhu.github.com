@@ -1,0 +1,36 @@
+.leo-foot{
+	border-top: 1px solid #DDDDDD;
+	clear: both;
+	margin: 20px 10px;
+}
+.leo-foot p {
+	color: #888888;
+    font-size: 11px;
+    text-align: center;
+}
+.leo-bg,.leo-bg2{
+	margin-top: 10px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+            box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+.leo-bg{
+	/*background-color: #F1F1F1;*/
+}
+.leo-bg2{
+	/*background-color: #F4F4F4;*/
+}
+.leo-well{
+    border-right: 1px solid #e3e3e3;
+    margin-bottom: 20px;
+    min-height: 20px;
+}
+.leo-well ul{
+	list-style: none;
+}
+.leo-noborder{
+	border: none;
+}
+.panel:hover{
+	background-color: #33C748;
+	color: white; 
+}

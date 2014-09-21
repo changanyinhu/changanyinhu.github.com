@@ -1,0 +1,47 @@
+name: leo
+email: jutleo@gmail.com
+markdown: redcarpet
+pygments: false
+permalink: /:year/:month/:day/:title
+encoding: utf-8
+#每页文章数
+paginate: 9
+
+author:
+  name: leo
+  email: jutleo@gmail.com
+menuitems:
+- name:     首页
+  url:      /
+  class:    leo-nav-item
+- name:     餐饮解决方案
+  url:      /
+  class:    leo-nav-item
+- name:     酒店解决方案
+  url:      /
+  class:    leo-nav-item
+- name:     中小零售咨询服务
+  url:      /
+  class:    leo-nav-item
+- name:     硬件产品
+  url:      /
+  class:    leo-nav-item
+- name:     工理百科
+  url:      /
+  class:    leo-nav-item
+- name:     联系我们
+  url:      /contant.html
+  class:    leo-nav-item last
+pageCatalog:
+- name:     方案中心
+  code:     solution
+- name:     新闻中心
+  code:     news
+- name:     快速通道
+  code:     away
+- name:     最新案例
+  code:     casex
+- name:     行业资讯
+  code:     industry
+- name:     品牌活动
+  code:     brand
