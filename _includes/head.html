@@ -1,6 +1,6 @@
 <div style="text-align:center;color:red;font-size:12px;font-weight: bold;">建议你使用IE9+、chrome、firefox、safari浏览器</div>
 
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default navbar-static-top" role="navigation">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -17,8 +17,19 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         {% for item in site.menuitems %}
-	    <li><a href="{{item.url}}">{{item.name}}</a></li>
-	  	{% endfor %}
+          {% if item.subName.size < 1 %}
+            <li><a href="{{item.url}}">{{item.name}}</a></li>
+          {% else %}
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{item.name}} </a>
+              <ul class="dropdown-menu" role="menu">
+                {% for subItem in item.subName %}
+                <li><a href="{{item.url}}">{{subItem}}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% endif %}
+        {% endfor %}
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
