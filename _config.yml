@@ -36,8 +36,15 @@ menuitems:
   url:      /
   class:    leo-nav-item
 - name:     关于我们
+<<<<<<< HEAD
   subName:  []
   url:      /contant.html
+=======
+  url:      /
+  class:    leo-nav-item
+- name:     联系我们
+  url:      /
+>>>>>>> d374ecb5897de1a966026aceb511fdd2ff0aefcf
   class:    leo-nav-item last
 pageCatalog:
 - name:     方案中心
