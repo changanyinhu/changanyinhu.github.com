@@ -16,7 +16,7 @@ menuitems:
   class:    leo-nav-item
 - name:     新闻
   url:      /
-class:    leo-nav-item
+  class:    leo-nav-item
 - name:     咨询
   url:      /
   class:    leo-nav-item
