@@ -30,7 +30,7 @@ menuitems:
   url:      /
   class:    leo-nav-item
 - name:     关于我们
-  url:      /contant.html
+  url:      /
   class:    leo-nav-item last
 pageCatalog:
 - name:     方案中心
