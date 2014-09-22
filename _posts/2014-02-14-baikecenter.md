@@ -1,5 +1,5 @@
 ---
-layout: concat
+layout: baike
 title: "百科 -- 首页"
 categories: [newscenter]
 ---
