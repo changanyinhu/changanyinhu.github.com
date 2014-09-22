@@ -31,6 +31,10 @@ menuitems:
   class:    leo-nav-item
 - name:     关于我们
   url:      /
+  class:    leo-nav-item
+  - name:   联系我们
+  url:      /
+  class:    leo-nav-item
   class:    leo-nav-item last
 pageCatalog:
 - name:     方案中心
