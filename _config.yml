@@ -1,4 +1,4 @@
-name: leo
+﻿name: leo
 email: jutleo@gmail.com
 markdown: redcarpet
 pygments: false
@@ -17,34 +17,36 @@ menuitems:
   class:    leo-nav-item
 - name:     新闻
   subName:  []
-  url:      /
+  url:      /2014/02/14/newscenter
   class:    leo-nav-item
 - name:     咨询
   subName:  []
-  url:      /
+  url:      /2014/02/14/industrycenter
   class:    leo-nav-item
 - name:     产品
-  subName:  [软件,硬件]
+  subName:  [软件#/2014/02/14/softcenter,硬件#/2014/02/14/hardwarecenter]
   url:      /
   class:    leo-nav-item
 - name:     软件配套产品
-  url:      /
+  subName:  []
+  url:      /2014/02/14/integrationcenter
   class:    leo-nav-item
 - name:     方案
   subName:  []
-  url:      /
+  url:      /2014/02/14/solutioncenter
   class:    leo-nav-item
 - name:     工理百科
   subName:  []
-  url:      /
+  url:      /2014/02/14/baikecenter
   class:    leo-nav-item
 - name:     关于我们
   subName:  []
   url:      /contant.html
-  url:      /
+  url:      /2014/02/14/aboutcenter
   class:    leo-nav-item
 - name:     联系我们
-  url:      /
+  subName:  []
+  url:      /2014/02/14/concatcenter
   class:    leo-nav-item last
 pageCatalog:
 - name:     方案中心

@@ -24,7 +24,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{item.name}} </a>
               <ul class="dropdown-menu" role="menu">
                 {% for subItem in item.subName %}
-                <li><a href="{{item.url}}">{{subItem}}</a></li>
+                <li><a href="{{ subItem | split:'#' | last }}">{{ subItem | split:'#' | first }}</a></li>
                 {% endfor %}
               </ul>
             </li>

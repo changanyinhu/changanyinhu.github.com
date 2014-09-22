@@ -1,0 +1,11 @@
+<div class="list-group">
+	<a href="#" class="list-group-item active">经典客户案例</a>
+	{% for news in site.categories %}
+		{% capture cgName %}{{ news | first }}{% endcapture %}
+		{% for post in news.last %}
+			{% if cgName =='news' %}
+			<a href="{{post.url}}" class="list-group-item">{{post.title}}</a>
+			{% endif%}
+		{% endfor %}
+	{% endfor %}
+</div>
