@@ -29,7 +29,7 @@ menuitems:
 - name:     工理百科
   url:      /
   class:    leo-nav-item
-- name:     联系我们
+- name:     关于我们
   url:      /contant.html
   class:    leo-nav-item last
 pageCatalog:
