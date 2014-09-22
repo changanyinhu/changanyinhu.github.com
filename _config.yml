@@ -27,6 +27,9 @@ menuitems:
   subName:  [软件,硬件]
   url:      /
   class:    leo-nav-item
+- name:     软件配套产品
+  url:      /
+  class:    leo-nav-item
 - name:     方案
   subName:  []
   url:      /
