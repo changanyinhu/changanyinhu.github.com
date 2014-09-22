@@ -1,4 +1,4 @@
-name: leo
+﻿name: leo
 email: jutleo@gmail.com
 markdown: redcarpet
 pygments: false
@@ -12,6 +12,15 @@ author:
   email: jutleo@gmail.com
 menuitems:
 - name:     首页
+  url:      /
+  class:    leo-nav-item
+- name:     新闻
+  url:      /
+  class:    leo-nav-item
+- name:     产品
+  url:      /
+  class:    leo-nav-item
+- name:     方案
   url:      /
   class:    leo-nav-item
 - name:     工理百科
