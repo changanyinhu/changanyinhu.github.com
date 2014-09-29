@@ -17,37 +17,35 @@ menuitems:
   class:    leo-nav-item
 - name:     新闻
   subName:  []
-  url:      /
+  url:      /2014/02/14/newscenter
   class:    leo-nav-item
 - name:     咨询
   subName:  []
-  url:      /
+  url:      /2014/09/14/industrycenter
   class:    leo-nav-item
 - name:     产品
-  subName:  [软件,硬件]
+  subName:  [软件#/2014/09/14/softcenter,硬件#/2014/09/14/hardwarecenter]
   url:      /
   class:    leo-nav-item
+<<<<<<< HEAD
 - name:     硬件
   url:      /
-  class:    leo-nav-item
 - name:     方案
   subName:  []
-  url:      /
+  url:      /2014/09/14/solutioncenter
   class:    leo-nav-item
 - name:     工理百科
   subName:  []
-  url:      /
+  url:      /2014/09/14/baikecenter
   class:    leo-nav-item
 - name:     关于我们
-<<<<<<< HEAD
   subName:  []
   url:      /contant.html
-=======
-  url:      /
+  url:      /2014/09/14/aboutcenter
   class:    leo-nav-item
 - name:     联系我们
-  url:      /
->>>>>>> d374ecb5897de1a966026aceb511fdd2ff0aefcf
+  subName:  []
+  url:      /2014/09/14/concatcenter
   class:    leo-nav-item last
 pageCatalog:
 - name:     方案中心
