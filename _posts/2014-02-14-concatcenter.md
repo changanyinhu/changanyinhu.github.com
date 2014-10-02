@@ -1,4 +1,4 @@
-﻿---
+---
 layout: concat
 title: "联系我们 -- 首页"
 categories: [concatcenter]

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: about
 title: "关于我们 -- 首页"
 categories: [aboutcenter]

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: solution
 title: "方案 -- 首页"
 categories: [newscenter]

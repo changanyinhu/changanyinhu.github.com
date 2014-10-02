@@ -1,7 +1,7 @@
 ---
 layout: baike
 title: "百科 -- 首页"
-categories: [newscenter]
+categories: [baikecenter]
 ---
 百科
 <hr/>
