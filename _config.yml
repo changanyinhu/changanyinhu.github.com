@@ -21,31 +21,32 @@ menuitems:
   class:    leo-nav-item
 - name:     咨询
   subName:  []
-  url:      /2014/09/14/industrycenter
+  url:      /2014/02/14/industrycenter
   class:    leo-nav-item
 - name:     产品
-  subName:  [软件#/2014/09/14/softcenter,硬件#/2014/09/14/hardwarecenter]
+  subName:  [软件#/2014/02/14/softcenter,硬件#/2014/02/14/hardwarecenter]
   url:      /
   class:    leo-nav-item
-<<<<<<< HEAD
-- name:     硬件
-  url:      /
+- name:     软件配套产品
+  subName:  []
+  url:      /2014/02/14/integrationcenter
+  class:    leo-nav-item
 - name:     方案
   subName:  []
-  url:      /2014/09/14/solutioncenter
+  url:      /2014/02/14/solutioncenter
   class:    leo-nav-item
 - name:     工理百科
   subName:  []
-  url:      /2014/09/14/baikecenter
+  url:      /2014/02/14/baikecenter
   class:    leo-nav-item
 - name:     关于我们
   subName:  []
   url:      /contant.html
-  url:      /2014/09/14/aboutcenter
+  url:      /2014/02/14/aboutcenter
   class:    leo-nav-item
 - name:     联系我们
   subName:  []
-  url:      /2014/09/14/concatcenter
+  url:      /2014/02/14/concatcenter
   class:    leo-nav-item last
 pageCatalog:
 - name:     方案中心
