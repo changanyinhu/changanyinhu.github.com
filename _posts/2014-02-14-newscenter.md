@@ -3,7 +3,7 @@ layout: news
 title: "新闻中心"
 categories: [newscenter]
 ---
-新闻中心首页 -------打算
+###新闻中心首页 -------打算
 <hr/>
 #解决方案大标题1
 ###解决方案大标题2

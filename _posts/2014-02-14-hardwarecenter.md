@@ -3,7 +3,7 @@ layout: hardware
 title: "硬件中心"
 categories: [newscenter]
 ---
-硬件中心首页
+###硬件中心首页
 <hr/>
 #解决方案大标题1
 ###解决方案大标题2

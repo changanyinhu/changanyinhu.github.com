@@ -3,7 +3,7 @@ layout: baike
 title: "百科 -- 首页"
 categories: [baikecenter]
 ---
-百科
+###百科
 <hr/>
 #解决方案大标题1
 ###解决方案大标题2
