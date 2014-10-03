@@ -1,0 +1,11 @@
+<div class="list-group">
+	<a href="#" class="list-group-item active disabled">我们的信息</a>
+	{% for abouts in site.categories %}
+		{% capture cgName %}{{ abouts | first }}{% endcapture %}
+		{% for post in abouts.last %}
+			{% if cgName =='about' %}
+			<a href="{{post.url}}" class="list-group-item">{{post.title}}</a>
+			{% endif%}
+		{% endfor %}
+	{% endfor %}
+</div>
