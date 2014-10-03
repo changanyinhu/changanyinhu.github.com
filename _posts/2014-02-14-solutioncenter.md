@@ -3,7 +3,7 @@ layout: solution
 title: "方案 -- 首页"
 categories: [newscenter]
 ---
-方案
+###方案
 <hr/>
 #解决方案大标题1
 ###解决方案大标题2

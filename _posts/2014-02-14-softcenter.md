@@ -3,7 +3,7 @@ layout: news
 title: "软件中心 -- 首页"
 categories: [newscenter]
 ---
-软件中心首页
+###软件中心首页
 <hr/>
 #解决方案大标题1
 ###解决方案大标题2
