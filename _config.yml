@@ -27,15 +27,15 @@ menuitems:
   subName:  []
   url:      /2014/02/14/industrycenter
   class:    leo-nav-item
-- name:     软件配套产品
+- name:     服务
   subName:  []
   url:      /2014/02/14/integrationcenter
   class:    leo-nav-item
-- name:     方案
+- name:     案例
   subName:  []
   url:      /2014/02/14/solutioncenter
   class:    leo-nav-item
-- name:     工理百科
+- name:     百科
   subName:  []
   url:      /2014/02/14/baikecenter
   class:    leo-nav-item
@@ -44,10 +44,6 @@ menuitems:
   url:      /contant.html
   url:      /2014/02/14/aboutcenter
   class:    leo-nav-item
-- name:     联系我们
-  subName:  []
-  url:      /2014/02/14/concatcenter
-  class:    leo-nav-item last
 pageCatalog:
 - name:     方案中心
   code:     solution
@@ -57,6 +53,8 @@ pageCatalog:
   code:     soft
 - name:     硬件
   code:     hardware
+- name:     服务
+  code:     service
 - name:     快速通道
   code:     away
 - name:     最新案例

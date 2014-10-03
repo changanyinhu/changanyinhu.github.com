@@ -1,7 +1,7 @@
 ---
 layout: integration
-title: "一体化整合 -- 首页"
-categories: [newscenter]
+title: "服务中心 -- 首页"
+categories: [servicecenter]
 ---
 ###一体化整合
 <hr/>

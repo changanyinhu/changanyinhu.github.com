@@ -1,0 +1,11 @@
+<div class="list-group">
+	<a href="#" class="list-group-item active disabled">服务规范</a>
+	{% for integrations in site.categories %}
+		{% capture cgName %}{{ integrations | first }}{% endcapture %}
+		{% for post in integrations.last %}
+			{% if cgName =='service' %}
+			<a href="{{post.url}}" class="list-group-item">{{post.title}}</a>
+			{% endif%}
+		{% endfor %}
+	{% endfor %}
+</div>

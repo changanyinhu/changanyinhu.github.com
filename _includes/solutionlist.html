@@ -1,0 +1,11 @@
+<div class="list-group">
+	<a href="#" class="list-group-item active disabled">案例中心</a>
+	{% for solutions in site.categories %}
+		{% capture cgName %}{{ solutions | first }}{% endcapture %}
+		{% for post in solutions.last %}
+			{% if cgName =='solution' %}
+			<a href="{{post.url}}" class="list-group-item">{{post.title}}</a>
+			{% endif%}
+		{% endfor %}
+	{% endfor %}
+</div>

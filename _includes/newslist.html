@@ -3,7 +3,6 @@
 	{% for news in site.categories %}
 		{% capture cgName %}{{ news | first }}{% endcapture %}
 		{% for post in news.last %}
-			{{cgName}}<br>
 			{% if cgName =='news' %}
 			<a href="{{post.url}}" class="list-group-item">{{post.title}}</a>
 			{% endif%}
