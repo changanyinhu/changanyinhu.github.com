@@ -1,7 +1,7 @@
 ---
 layout: hardware
 title: "硬件中心"
-categories: [newscenter]
+categories: [hardwarecenter]
 ---
 ###硬件中心首页
 <hr/>

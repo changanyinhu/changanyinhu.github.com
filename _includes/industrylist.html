@@ -1,0 +1,11 @@
+<div class="list-group">
+	<a href="#" class="list-group-item active disabled">咨询信息</a>
+	{% for industry in site.categories %}
+		{% capture cgName %}{{ industry | first }}{% endcapture %}
+		{% for post in industry.last %}
+			{% if cgName =='industry' %}
+			<a href="{{post.url}}" class="list-group-item">{{post.title}}</a>
+			{% endif%}
+		{% endfor %}
+	{% endfor %}
+</div>

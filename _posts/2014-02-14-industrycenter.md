@@ -1,7 +1,7 @@
 ---
-layout: news
+layout: industry
 title: "咨询中心"
-categories: [newscenter]
+categories: [industrycenter]
 ---
 ###咨询中心首页
 <hr/>

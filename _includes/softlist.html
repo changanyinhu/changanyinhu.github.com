@@ -1,0 +1,11 @@
+<div class="list-group">
+	<a href="#" class="list-group-item active disabled">软件列表</a>
+	{% for softs in site.categories %}
+		{% capture cgName %}{{ softs | first }}{% endcapture %}
+		{% for post in softs.last %}
+			{% if cgName =='soft' %}
+			<a href="{{post.url}}" class="list-group-item">{{post.title}}</a>
+			{% endif%}
+		{% endfor %}
+	{% endfor %}
+</div>

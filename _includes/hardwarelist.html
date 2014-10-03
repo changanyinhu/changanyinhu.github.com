@@ -1,0 +1,11 @@
+<div class="list-group">
+	<a href="#" class="list-group-item active disabled">硬件列表</a>
+	{% for hardwares in site.categories %}
+		{% capture cgName %}{{ hardwares | first }}{% endcapture %}
+		{% for post in hardwares.last %}
+			{% if cgName =='hardware' %}
+			<a href="{{post.url}}" class="list-group-item">{{post.title}}</a>
+			{% endif%}
+		{% endfor %}
+	{% endfor %}
+</div>

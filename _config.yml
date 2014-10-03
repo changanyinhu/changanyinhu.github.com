@@ -19,13 +19,13 @@ menuitems:
   subName:  []
   url:      /2014/02/14/newscenter
   class:    leo-nav-item
-- name:     咨询
-  subName:  []
-  url:      /2014/02/14/industrycenter
-  class:    leo-nav-item
 - name:     产品
   subName:  [软件#/2014/02/14/softcenter,硬件#/2014/02/14/hardwarecenter]
   url:      /
+  class:    leo-nav-item
+- name:     咨询
+  subName:  []
+  url:      /2014/02/14/industrycenter
   class:    leo-nav-item
 - name:     软件配套产品
   subName:  []
@@ -53,6 +53,10 @@ pageCatalog:
   code:     solution
 - name:     新闻中心
   code:     news
+- name:     软件
+  code:     soft
+- name:     硬件
+  code:     hardware
 - name:     快速通道
   code:     away
 - name:     最新案例
