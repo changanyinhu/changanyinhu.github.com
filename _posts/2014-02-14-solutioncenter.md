@@ -1,9 +1,9 @@
 ---
 layout: solution
-title: "方案 -- 首页"
+title: "解决方案 -- 首页"
 categories: [newscenter]
 ---
-###方案
+###解决方案
 <hr/>
 #解决方案大标题1
 ###解决方案大标题2
@@ -14,3 +14,4 @@ categories: [newscenter]
 
 餐饮方案
 酒店方案
+洗浴方案
