@@ -1,0 +1,25 @@
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  {% for tag in site.tags %}
+  {% if tag[0] != site.tags.first[0] %}
+  {% endif %}
+
+  <div class="panel panel-leo">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse_{{forloop.index}}" aria-expanded="true" aria-controls="collapse_{{forloop.index}}">
+          <span href="#">{{ tag[0] }} <span class="badge pull-right">{{tag | last | size}}</span></span>
+        </a>
+      </h4>
+    </div>
+    <div id="collapse_{{forloop.index}}" class="panel-collapse collapse" role="tabpanel">
+      <div class="panel-body">
+          {% for post in tag[1] %}
+          {% if post != tag[1].first %}
+          {% endif %}
+          <a href="{{post.url}}" class="leo-list-item">{{post.title}}</a>
+          {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

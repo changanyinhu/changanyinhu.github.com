@@ -34,9 +34,32 @@ body{
 .leo-noborder{
 	border: none;
 }
-.panel:hover{
+.leo-panel:hover{
 	background-color: #46B2F7;
 	color: white; 
+}
+.panel-leo {
+  border-color: #ddd;
+}
+.panel-leo > .panel-heading {
+  color: white;
+  background-color: #46B2F7;
+  border-color: #46B2F7;
+}
+.panel-leo > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #ddd;
+}
+.panel-leo > .panel-heading .badge {
+  color: #f5f5f5;
+  background-color: #36CE4C;
+}
+.panel-leo > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #ddd;
+}
+.leo-list-item{
+  display: block;
+  height: 24px;
+  border-bottom: 1px dashed;
 }
 .leo-top-warning{
 	text-align:center;
