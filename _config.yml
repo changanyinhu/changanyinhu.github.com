@@ -20,7 +20,7 @@ menuitems:
   url:      /2014/02/14/newscenter
   class:    leo-nav-item
 - name:     产品
-  subName:  [软件#/2014/02/14/softcenter,硬件#/2014/02/14/hardwarecenter]
+  subName:  [软件#/2014/02/14/softcenter,硬件#/2014/02/14/hardwarecenter，耗材#/2014/02/14/hardwarecenter]
   url:      /
   class:    leo-nav-item
 - name:     咨询
