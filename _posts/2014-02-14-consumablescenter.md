@@ -1,4 +1,4 @@
-﻿---
+---
 layout: hardware
 title: "耗材中心"
 categories: [hardwarecenter]
