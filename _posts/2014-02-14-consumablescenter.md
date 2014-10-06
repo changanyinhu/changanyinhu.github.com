@@ -1,7 +1,7 @@
 ---
-layout: hardware
+layout: consumables
 title: "耗材中心"
-categories: [hardwarecenter]
+categories: [consumablescenter]
 ---
 ###耗材中心首页
 <hr/>
@@ -17,4 +17,3 @@ categories: [hardwarecenter]
 <hr/>
 ###各类打印机
 <hr/>
-
