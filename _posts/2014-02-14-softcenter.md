@@ -3,7 +3,7 @@ layout: soft
 title: "软件中心--首页"
 categories: [softcenter]
 ---
-###工理软件——传播先进的科学思想，实现的企业品牌价值！
+###工理软件——传播先进的科学思想，实现企业的品牌价值！
 <hr/>
 ![头条1](/static/images/softxuanc011.jpg)
 ####每天超过100，000的食客，我们在为他们默默服务。
