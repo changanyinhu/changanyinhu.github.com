@@ -1,7 +1,7 @@
 ﻿---
 layout: soft
 title: "软件中心 -- 首页"
-categories: [softcenter]
+categories: [newscenter]
 ---
 ####工理软件
 <hr>
