@@ -5,7 +5,7 @@ categories: [softcenter]
 ---
 ###工理软件餐饮管理系统——餐饮智能信息化服务专家
 <hr/>
-![头条](/static/images/canyinrj01.jpg)
+![头条](/static/images/softxuanc011.jpg)
 ####每天超过100，000的食客，我们在为他们默默服务。
 每天开启10，000台电脑，与我们不见不散。
 工理软件提供餐饮、酒店、娱乐等多液态一体化解决方案。
