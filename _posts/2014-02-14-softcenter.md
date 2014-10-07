@@ -9,4 +9,4 @@ categories: [softcenter]
 ####解决方案大标题4
 #####解决方案大标题5
 ######解决方案大标题6
-![头条](/static/images/ruanjianye2.jpg)
+![头条](/static/images/canyinrj01.jpg)
