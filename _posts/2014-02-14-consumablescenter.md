@@ -1,7 +1,7 @@
 ---
-layout: industry
-title: "咨询中心"
-categories: [industrycenter]
+layout: consumables
+title: "耗材中心"
+categories: [consumablescenter]
 ---
 ###咨询中心首页
 <hr/>
