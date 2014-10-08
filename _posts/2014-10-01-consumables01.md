@@ -1,4 +1,4 @@
-﻿---
+---
 layout: consumables
 title: "打印机耗材"
 categories: [consumables]
