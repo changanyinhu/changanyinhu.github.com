@@ -15,6 +15,5 @@ categories: [hardwarecenter]
 <hr/>
 ###厨房专用打印机
 <hr/>
-###会员卡定做
 
 
