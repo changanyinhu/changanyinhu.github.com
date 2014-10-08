@@ -1,7 +1,7 @@
 ---
-layout: news
+layout: Consumables
 title: "案例中心 -- 首页"
-categories: [casecenter]
+categories: [Consumables]
 ---
 ###案例中心首页
 <hr/>
