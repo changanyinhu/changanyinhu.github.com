@@ -1,4 +1,4 @@
----
+﻿---
 layout: hardware
 title: "硬件中心"
 categories: [hardwarecenter]
@@ -18,9 +18,3 @@ categories: [hardwarecenter]
 ###会员卡定做
 <hr/>
 
-#解决方案大标题1
-###解决方案大标题2
-###解决方案大标题3
-####解决方案大标题4
-#####解决方案大标题5
-######解决方案大标题6
