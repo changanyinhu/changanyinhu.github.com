@@ -1,4 +1,4 @@
-﻿name: 西安工理信息技术
+﻿name: 西安暘普信息技术
 email: jutleo@gmail.com
 markdown: redcarpet
 pygments: false
@@ -39,7 +39,7 @@ menuitems:
   subName:  []
   url:      /2014/02/14/baikecenter
   class:    leo-nav-item
-- name:     关于工理
+- name:     关于暘普
   subName:  []
   url:      /contant.html
   url:      /2014/02/14/aboutcenter
