@@ -1,7 +1,7 @@
 ---
-layout: industry
-title: "咨询中心"
-categories: [industrycenter]
+layout: hardware
+title: "硬件中心"
+categories: [hardwarecenter]
 ---
 ###咨询中心首页
 <hr/>
@@ -17,9 +17,4 @@ categories: [industrycenter]
 <hr/>
 ###收银员餐饮操作培训咨询
 
-#解决方案大标题1
-###解决方案大标题2
-###解决方案大标题3
-####解决方案大标题4
-#####解决方案大标题5
-######解决方案大标题6
+网站在升级中！！！！！
