@@ -1,7 +1,7 @@
 ﻿---
 layout: solution
 title: "案例中心 -- 首页"
-categories: [newscenter]
+categories: [solutioncenter]
 ---
 ###解决方案
 <hr/>
