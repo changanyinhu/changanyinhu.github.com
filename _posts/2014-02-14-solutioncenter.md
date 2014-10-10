@@ -1,6 +1,6 @@
----
+﻿---
 layout: solution
-title: "解决方案 -- 首页"
+title: "案例中心 -- 首页"
 categories: [newscenter]
 ---
 ###解决方案
