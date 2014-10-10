@@ -32,7 +32,7 @@ menuitems:
   url:      /2014/02/14/integrationcenter
   class:    leo-nav-item
 - name:     案例
-  subName:  [方案#/2014/02/14/solutioncenter,经典案例#/2014/02/14/casecenter]
+  subName:  [解决方案#/2014/02/14/solutioncenter,经典案例#/2014/02/14/casecenter]
   url:      /
   class:    leo-nav-item
 - name:     暘普科
