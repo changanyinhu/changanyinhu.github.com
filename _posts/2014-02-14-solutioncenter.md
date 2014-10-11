@@ -1,5 +1,5 @@
 ﻿---
-layout: solutioncenter
+layout: solution
 title: "案例中心 -- 首页"
 categories: [solutioncenter]
 ---
