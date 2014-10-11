@@ -1,16 +1,6 @@
 ---
-layout: soft
-title: "软件中心--首页"
-categories: [softcenter]
+layout: solutioncenter
+title: "案例中心--首页"
+categories: [solutioncenter]
 ---
 ###工理软件——传播先进的科学思想，实现企业的品牌价值！
-<hr/>
-![头条1](/static/images/softxuanc011.jpg)
-####每天超过100，000的食客，我们在为他们默默服务。
-<hr/>
-每天开启10，000台电脑，与我们不见不散。
-工理软件提供餐饮、酒店、娱乐等多液态一体化解决方案。
-方便、快捷、稳定、易用的前台业务运营、全面及时的业务管控。
-强大的数据分析、助力您的企业健康成长。
-<hr/>
-
