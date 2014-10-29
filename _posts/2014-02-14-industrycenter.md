@@ -5,7 +5,7 @@ categories: [industrycenter]
 ---
 ###咨询中心首页
 <hr/>
-###售前咨询：
+###售前咨询服务：
 1、餐饮业售前咨询。
 <hr/>
 2、洗浴足浴售前咨询。
@@ -17,3 +17,4 @@ categories: [industrycenter]
 5、财务软件售前咨询。
 <hr/>
 6、零售进销存售前咨询。
+
