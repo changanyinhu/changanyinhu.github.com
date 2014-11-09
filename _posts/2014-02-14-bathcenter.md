@@ -1,6 +1,6 @@
+﻿---
+layout: bathsoft
+title: "洗浴软件"
+categories: [bathsoftcenter]
 ---
-layout: consumables
-title: "耗材中心"
-categories: [consumablescenter]
----
-###耗材中心首页
+###洗浴软件首页
