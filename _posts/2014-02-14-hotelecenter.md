@@ -1,9 +1,9 @@
+﻿---
+layout: hotel
+title: "酒店软件"
+categories: [ hotelcenter]
 ---
-layout: hardware
-title: "硬件中心"
-categories: [hardwarecenter]
----
-###硬件中心首页
+###酒店软件首页
 
 
 网站在升级中！！！！ 029-89324448
