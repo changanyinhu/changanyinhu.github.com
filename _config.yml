@@ -15,6 +15,10 @@ menuitems:
   subName:  []
   url:      /
   class:    leo-nav-item
+- name:     新闻
+  subName:  []
+  url:      /2014/02/14/industrycenter
+  class:    leo-nav-item
 - name:     产品
   subName:  [餐饮软件#/2014/02/14/cateringsoftcenter,酒店软件#/2014/02/14/hotelcenter,配套硬件#/2014/02/14/hardwarecenter]
   url:      /
