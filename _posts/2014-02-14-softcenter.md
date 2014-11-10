@@ -1,6 +1,6 @@
 ---
 layout: soft
-title: "软件中心--首页"
+title: "餐饮软件--首页"
 categories: [softcenter]
 ---
 ###暘普软件——传播先进的科学思想，实现企业的品牌价值！
