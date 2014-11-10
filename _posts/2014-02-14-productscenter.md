@@ -1,9 +1,9 @@
 ---
-layout: solution
-title: "案例与解决方案"
-categories: [solutioncenter]
+layout: products
+title: "产品中心"
+categories: [productscenter]
 ---
-###案例与解决方案 
+###产品中心
 <hr/>
 ##公司新闻
 <hr/>
