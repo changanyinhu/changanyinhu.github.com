@@ -1,7 +1,7 @@
 ﻿---
 layout: cateringsoft
 title: "餐饮软件中心"
-categories: [cateringsoftcenter]
+categories:[cateringsoftcenter]
 ---
 ###餐饮软件中心
 <hr/>
