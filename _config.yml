@@ -35,6 +35,10 @@ menuitems:
   subName:  []
   url:      /2014/02/14/solutioncenter
   class:    leo-nav-item
+- name:     方案
+  subName:  []
+  url:      /2014/02/14/solutioncenter
+  class:    leo-nav-item
 - name:     暘普问答
   subName:  []
   url:      /2014/02/14/baikecenter
