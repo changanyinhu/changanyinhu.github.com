@@ -1,7 +1,7 @@
----
-layout: baike
-title: "暘普问答 -- 首页"
-categories: [baikecenter]
+﻿---
+layout:newscenter
+title: "新闻首页"
+categories: [newscenter]
 ---
 ###暘普问答
 <hr/>
