@@ -1,6 +1,6 @@
 ﻿---
 layout: news
-title: "新闻首页"
+title: "新闻中心"
 categories: [newscenter]
 ---
 ###新闻 
