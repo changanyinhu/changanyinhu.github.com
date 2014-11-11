@@ -1,6 +1,6 @@
 ﻿---
 layout: news
-title: "案例与解决方案"
+title: "新闻首页"
 categories: [newscenter]
 ---
 ###新闻 
