@@ -1,7 +1,7 @@
----
-layout: solution
+﻿---
+layout: hardware
 title: "综合性星级酒店解决方案"
-categories: [solution]
+categories: [hardwarecenter]
 ---
 ###综合型星级酒店解决方案
 <hr/>
