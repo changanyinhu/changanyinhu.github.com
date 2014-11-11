@@ -1,9 +1,9 @@
----
-layout: solution
+﻿---
+layout: news
 title: "案例与解决方案"
-categories: [solutioncenter]
+categories: [newscenter]
 ---
-###案例与解决方案 
+###新闻 
 <hr/>
 ##公司新闻
 <hr/>
