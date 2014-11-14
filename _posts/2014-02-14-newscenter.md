@@ -1,4 +1,4 @@
-﻿---
+---
 layout: news
 title: "案例与解决方案"
 categories: [newscenter]
