@@ -1,7 +1,7 @@
 ﻿---
-layout: caterringsoft
+layout: soft
 title: "快餐版"
-categories: [caterringsoft]
+categories: [3i3i]
 ---
 ####专业咨询服务
 <hr/>
