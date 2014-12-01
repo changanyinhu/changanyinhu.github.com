@@ -1,7 +1,7 @@
 ---
 layout: hardware
-title: "案例与解决方案"
-categories: [newscenter]
+title: "硬件产品"
+categories: [hardwarecenter]
 ---
 ###硬件 
 <hr/>
