@@ -15,7 +15,7 @@ menuitems:
   subName:  []
   url:      /
   class:    leo-nav-item
-- name:     新闻
+- name:     试用
   subName:  []
   url:      /2014/02/14/newscenter
   class:    leo-nav-item
