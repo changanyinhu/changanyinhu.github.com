@@ -1,5 +1,5 @@
 ﻿---
-layout: hotel
+layout: soft
 title: "足浴管理系统"
 categories: [soft]
 ---
