@@ -1,6 +1,6 @@
----
+﻿---
 layout: soft
-title: "餐饮软件中心"
+title: "餐饮连锁集团办"
 categories: [soft]
 ---
 ####专业咨询服务
