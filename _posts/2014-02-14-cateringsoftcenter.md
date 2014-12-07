@@ -1,7 +1,7 @@
 ---
 layout: soft
 title: "餐饮软件中心"
-categories: [3i3i]
+categories: [softcenter]
 ---
 ###餐饮通
 ####高端餐饮管理系统

@@ -1,7 +1,7 @@
 ---
-layout: hardware
-title: "酒店软件配套硬件"
-categories: [hardware]
+layout: soft
+title: "餐饮软件"
+categories: [soft]
 ---
 <hr/>
 ####酒店软件配套硬件：
