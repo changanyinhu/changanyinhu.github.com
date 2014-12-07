@@ -76,7 +76,7 @@ bannerConfig:
 - imgs: jiudweixin.jpg
   text: 
 
-homeDescText1: 我们的优势  
+  homeDescText1: 我们的优势  
 homeDesc1:
 - imgs: round.gif
   text1: 餐饮行业
