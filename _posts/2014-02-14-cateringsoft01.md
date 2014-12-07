@@ -1,7 +1,7 @@
 ---
 layout: soft
 title: "餐饮软件中心"
-categories: [3i3i]
+categories: [soft]
 ---
 ####专业咨询服务
 <hr/>
