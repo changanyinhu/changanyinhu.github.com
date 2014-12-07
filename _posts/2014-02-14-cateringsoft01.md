@@ -1,6 +1,6 @@
 ﻿---
 layout: soft
-title: "足浴管理系统"
+title: "经典案例"
 categories: [soft]
 ---
 <hr/>
