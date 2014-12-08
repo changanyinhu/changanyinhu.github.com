@@ -4,9 +4,9 @@ title: "餐饮软件"
 categories: [soft]
 ---
 <hr/>
-####酒店软件配套硬件：
+####餐饮软件：
 <hr/>
-1、服务器：
+![百度头条](/static/images/canyintong.bmp)
 <hr/>
 2、二代身份证阅读器：
 <hr/>
