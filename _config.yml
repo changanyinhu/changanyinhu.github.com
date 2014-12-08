@@ -78,13 +78,13 @@ bannerConfig:
 
   homeDescText1: 我们的优势  
 homeDesc1:
-- imgs: cany.gif
+- imgs: cany.jpg
   text1: 餐饮行业
   text2: 无线点菜系统,触摸屏点菜系统,平板点菜系统、快餐收银管理系统,餐饮管理系统、连锁餐饮管理系统。
-- imgs: jiudian.gif
+- imgs: jiudian.jpg
   text1: 酒店酒店行业
   text2: 各类会员卡定制服务,各类会员卡定制服务,各类会员卡定制服务,各类会员卡定制服务
-- imgs: jd.gif
+- imgs: jd.jpg
   text1: 酒店娱乐行业
   text2: 各类会员卡定制服务,各类会员卡定制服务,各类会员卡定制服务,各类会员卡定制服务
 
