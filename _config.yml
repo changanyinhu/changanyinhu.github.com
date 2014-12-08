@@ -80,13 +80,16 @@ bannerConfig:
 homeDesc1:
 - imgs: round.gif
   text1: 餐饮行业
-  text2: 无线点菜系统,触摸屏点菜系统,平板点菜系统、快餐收银管理系统,餐饮管理系统、连锁餐饮管理系统。
+  text2: 无线点菜软件,触摸屏点菜软件,平板点菜软件、餐饮管理软件、连锁餐饮软件。
 - imgs: round.gif
   text1: 酒店宾馆行业
-  text2: 快捷酒店系统,宾馆管理系统,综合星级酒店系统,连锁酒店一卡通系统
+  text2: 快捷酒店软件,宾馆管理软件,综合星级酒店软件,连锁酒店一卡通软件。
 - imgs: round.gif
   text1: 洗浴娱乐行业
-  text2: 洗浴管理软件、足浴管理软件、
+  text2: 洗浴管理软件、足浴管理软件。
+- imgs: round.gif
+  text1: 零售百货行业
+  text2: 超市软件、零售进销存软件、行业管理软件、分销管理软件。
 
 homeDescText2: 我们的优势
 homeDesc2:
