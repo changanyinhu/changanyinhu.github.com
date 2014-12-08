@@ -6,7 +6,7 @@ categories: [soft]
 <hr/>
 ####餐饮软件：
 <hr/>
-![百度头条](/static/images/canyintong.bmp)
+![百度头条](/static/images/canyintong01.jpg)
 <hr/>
 2、二代身份证阅读器：
 <hr/>
