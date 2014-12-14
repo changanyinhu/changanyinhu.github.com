@@ -1,12 +1,12 @@
 ---
-layout: soft
-title: "餐饮软件"
+layout: soft 
+title: "快餐版"
 categories: [soft]
 ---
 <hr/>
-####餐饮软件：
+####餐饮通——快餐版：
 <hr/>
-![百度头条](/static/images/canyintong01.jpg)
+
 <hr/>
 2、二代身份证阅读器：
 <hr/>
