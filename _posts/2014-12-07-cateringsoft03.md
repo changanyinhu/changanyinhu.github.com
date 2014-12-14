@@ -1,6 +1,6 @@
 ---
 layout: soft
-title: "餐饮通经典版"
+title: "经典版"
 categories: [soft]
 ---
 <hr/>
