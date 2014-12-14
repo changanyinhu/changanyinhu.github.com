@@ -1,10 +1,10 @@
 ---
 layout: soft
-title: "餐饮软件"
+title: "餐饮通高级版"
 categories: [soft]
 ---
 <hr/>
-####餐饮软件：
+####餐饮通高级版:
 <hr/>
 ![百度头条](/static/images/canyintong01.jpg)
 <hr/>
