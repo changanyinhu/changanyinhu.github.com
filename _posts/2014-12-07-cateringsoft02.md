@@ -1,6 +1,6 @@
 ---
 layout: soft
-title: "餐饮软件"
+title: "餐饮通高级版"
 categories: [soft]
 ---
 <hr/>
