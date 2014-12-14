@@ -1,10 +1,10 @@
 ---
 layout: soft
-title: "餐饮通高级版"
+title: "快速通"
 categories: [soft]
 ---
 <hr/>
-####餐饮通高级版:
+####快速通——餐饮里的GPS:
 <hr/>
 
 <hr/>
