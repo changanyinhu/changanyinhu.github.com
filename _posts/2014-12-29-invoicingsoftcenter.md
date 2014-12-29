@@ -1,7 +1,7 @@
 ---
 layout: invoicing
 title: "行业管理软件"
-categories: [invoicingcenter]
+categories: [invoicingsoftcenter]
 ---
 ####行业管理软件
 <hr/>
