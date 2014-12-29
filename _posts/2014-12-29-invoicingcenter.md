@@ -1,7 +1,7 @@
 ---
-layout: hardware
-title: "硬件产品"
-categories: [hardwarecenter]
+layout: invoicing
+title: "行业管理软件"
+categories: [invoicingcenter]
 ---
 ###硬件 
 <hr/>
