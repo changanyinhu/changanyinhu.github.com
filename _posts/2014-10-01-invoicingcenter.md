@@ -1,7 +1,7 @@
 ---
-layout: hotel
-title: "接口管理系统"
-categories: [hotelsoft]
+layout: invoicing
+title: "行业管理管理系统"
+categories: [invoicingsoft]
 ---
 <hr/>
 ####一、酒店宾馆系统与电子门锁接口
