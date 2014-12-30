@@ -16,10 +16,5 @@ categories: [soft]
 <hr/
 5、厨房设置
 <hr/>
-6、
-<hr/>
-7、
-<hr/>
-8、
-<hr/>
+
 
