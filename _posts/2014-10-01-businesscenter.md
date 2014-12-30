@@ -1,7 +1,7 @@
 ---
-layout: hotel
+layout: business
 title: "酒店连锁集团版"
-categories: [hotelsoft]
+categories: [businesscenter]
 ---
 <hr/>
 ####星级酒店管理系统
