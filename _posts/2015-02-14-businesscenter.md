@@ -1,7 +1,7 @@
 ---
 layout: business
 title: "行业管理软件"
-categories: [business]
+categories: [businesscenter]
 ---
 ####行业管理软件：零售行业管理软件、汽修汽配行业管理软件
 <hr/>
