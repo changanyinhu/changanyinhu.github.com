@@ -1,7 +1,7 @@
 ---
-layout: news
+layout: business
 title: "软件试用中心"
-categories: [newscenter]
+categories: [businesscenter]
 ---
 ###软件试用 
 
