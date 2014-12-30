@@ -1,9 +1,9 @@
 ---
-layout: industry
-title: "咨询中心"
-categories: [industrycenter]
+layout: business
+title: "行业管理软件"
+categories: [businesscenter]
 ---
-####全程专业一站式咨询服务
+####行业管理软件：零售行业管理软件、汽修汽配行业管理软件
 <hr/>
 ####暘普技术为竭诚您服务：
 <hr/>
