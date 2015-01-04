@@ -3,7 +3,7 @@ layout: integration
 title: "服务中心 -- 首页"
 categories: [servicecenter]
 ---
-###软件指南服务
+###软件服务指南
 <hr/>
 ####新老用户购买正版软件规服务流程。
 <hr/>
