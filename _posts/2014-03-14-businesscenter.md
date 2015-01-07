@@ -1,7 +1,7 @@
 ---
-layout: integration
+layout: business
 title: "服务中心 -- 首页"
-categories: [servicecenter]
+categories: [businesscenter]
 ---
 ###软件指南
 <hr/>
