@@ -5,6 +5,7 @@ categories: [servicecenter]
 ---
 ###软件指南
 <hr/>
+![百度头条](/static/images/shouh01.jpg)
 ####新老用户购买正版软件规服务流程。
 <p>
 #####售前服务：酒店需求分析、提供解决方案、现场系统演示。
