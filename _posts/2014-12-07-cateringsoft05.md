@@ -1,7 +1,8 @@
 ---
-layout: soft
+layout: product
 title: "快速通"
-categories: [soft]
+categories: [product]
+tags: [餐饮软件]
 ---
 <hr/>
 ####快速通——餐饮里的GPS系统:

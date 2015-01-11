@@ -1,7 +1,8 @@
 ---
-layout: soft
+layout: product
 title: "高级专业版"
-categories: [soft]
+categories: product
+tags: [餐饮软件]
 ---
 <hr/>
 ####餐饮通高级版功能模块子系统介绍:

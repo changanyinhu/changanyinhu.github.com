@@ -1,7 +1,8 @@
 ---
-layout: soft
+layout: product
 title: "经典版"
-categories: [soft]
+categories: [product]
+tags: [餐饮软件]
 ---
 <hr/>
 ####餐饮通经典版

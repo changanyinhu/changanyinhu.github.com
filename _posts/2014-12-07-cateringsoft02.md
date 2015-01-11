@@ -1,7 +1,8 @@
 ---
-layout: soft
+layout: product
 title: "普及专业版"
-categories: [soft]
+categories: product
+tags: [餐饮软件]
 ---
 <hr/>
 ####餐饮通普及专业版：

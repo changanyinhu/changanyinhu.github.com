@@ -1,7 +1,7 @@
 ---
 layout: soft
 title: "餐饮软件中心"
-categories: [softcenter]
+categories: cateringcenter
 ---
 ###餐饮通
 ####高端餐饮管理系统

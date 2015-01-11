@@ -1,7 +1,7 @@
 ﻿name: 西安暘普信息技术
 email: jutleo@gmail.com
 markdown: redcarpet
-pygments: false
+highlighter: pygments
 permalink: /:year/:month/:day/:title
 encoding: utf-8
 #每页文章数
@@ -23,7 +23,7 @@ menuitems:
   class:    leo-nav-item
 - name:     产品
   subName:  []
-  url:      /
+  url:      /2015/01/11/product-center
   class:    leo-nav-item
 - name:     咨询
   subName:  []

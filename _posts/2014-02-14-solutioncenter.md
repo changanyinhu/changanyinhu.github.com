@@ -1,7 +1,7 @@
 ---
 layout: solution
 title: "案例与解决方案"
-categories: [solutioncenter]
+categories: solution
 ---
 ####案例与解决方案中心
 ![百度头条](/static/images/fangan01.jpg)

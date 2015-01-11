@@ -1,7 +1,7 @@
 ---
 layout: baike
 title: "暘普知识库 -- 首页"
-categories: [baikecenter]
+categories: baike
 ---
 ###暘普知识库
 <hr/>

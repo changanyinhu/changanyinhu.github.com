@@ -1,7 +1,8 @@
 ---
-layout: soft 
+layout: product 
 title: "快餐版"
-categories: [soft]
+categories: [product]
+tags: [餐饮软件]
 ---
 <hr/>
 ####餐饮通——快餐版系统模块介绍：
