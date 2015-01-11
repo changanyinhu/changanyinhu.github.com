@@ -22,7 +22,7 @@ menuitems:
   url:      /2014/02/14/newscenter
   class:    leo-nav-item
 - name:     产品
-  subName:  [餐饮软件#/2014/02/14/cateringsoftcenter,酒店软件#/2014/02/14/hotelcenter,行业软件#/2014/02/14/businesscenter,配套硬件#/2014/02/14/hardwarecenter]
+  subName:  []
   url:      /
   class:    leo-nav-item
 - name:     咨询
