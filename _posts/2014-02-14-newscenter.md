@@ -9,6 +9,8 @@ categories: [newscenter]
 ####庄朋软件推出2015年企业用户量身订制体验式活动系列产品： 餐饮软件  宾馆软件  酒店软件   洗浴软件、行业管理软件等软件，公司店面试用体现活动。
 <p>
 ![百度头条](/static/images/jd01.jpg)
+<p>
+<p>
 ![百度头条](/static/images/jjcy01.jpg)
 <p>
 软件体验式流程：
