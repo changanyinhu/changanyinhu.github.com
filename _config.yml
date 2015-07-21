@@ -110,6 +110,9 @@ homeDesc2:
 - imgs: pbdc01.jpg
   text1: 平板点菜软件
   text2: 咨询服务
+- imgs: wxdf01.jpg
+  text1: 微信订房
+  text2: 咨询服务
 homeDescText3: 我们竭诚为您服务：
 homeDesc3:
 - imgs: G500.jpg 
