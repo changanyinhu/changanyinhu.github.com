@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "普及专业版"
+title: "微信点菜"
 categories: product
 tags: [餐饮软件]
 ---

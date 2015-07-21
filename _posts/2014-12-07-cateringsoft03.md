@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "经典版"
+title: "平板点菜"
 categories: [product]
 tags: [餐饮软件]
 ---
