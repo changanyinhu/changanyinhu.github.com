@@ -17,31 +17,31 @@ menuitems:
   subName:  []
   url:      /
   class:    leo-nav-item
-- name:     试用
+- name:     软件演示
   subName:  []
   url:      /2014/02/14/newscenter
   class:    leo-nav-item
-- name:     产品
+- name:     产品介绍
   subName:  []
   url:      /2015/01/11/product-center
   class:    leo-nav-item
-- name:     咨询
+- name:     售前咨询
   subName:  []
   url:      /2014/02/14/industrycenter
   class:    leo-nav-item
-- name:     售后
+- name:     提供服务
   subName:  []
   url:      /2014/02/14/integrationcenter
   class:    leo-nav-item
-- name:     案例
+- name:     成功案例
   subName:  []
   url:      /2014/02/14/solutioncenter
   class:    leo-nav-item
-- name:     问答
+- name:     软件问答
   subName:  []
   url:      /2014/02/14/baikecenter
   class:    leo-nav-item
-- name:     关于庄朋
+- name:     关于我们
   subName:  []
   url:      /contant.html
   url:      /2014/02/14/aboutcenter
