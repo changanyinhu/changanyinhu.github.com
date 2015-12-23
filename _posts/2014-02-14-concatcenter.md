@@ -15,7 +15,7 @@ categories: [concatcenter]
    qq:284738785  394689339
     
 
-   传&emsp;&emsp;&emsp;真： 029-8932-4448 
+   传&emsp;&emsp;&emsp;真： 029-62258029
 
    电&emsp;&emsp;&emsp;话： 136-0926-2146 
 
