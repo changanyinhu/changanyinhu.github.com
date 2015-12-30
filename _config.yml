@@ -33,7 +33,7 @@ menuitems:
   subName:  []
   url:      /2014/02/14/integrationcenter
   class:    leo-nav-item
-- name:     成功案例
+- name:     工程案例
   subName:  []
   url:      /2014/02/14/solutioncenter
   class:    leo-nav-item
