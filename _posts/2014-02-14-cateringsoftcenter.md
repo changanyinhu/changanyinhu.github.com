@@ -1,6 +1,6 @@
 ---
 layout: soft
-title: "餐饮软件中心"
+title: "餐饮产品线"
 categories: cateringcenter
 ---
 ###《餐饮通》
