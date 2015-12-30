@@ -25,7 +25,7 @@ menuitems:
   subName:  []
   url:      /2015/01/11/product-center
   class:    leo-nav-item
-- name:     售前咨询
+- name:     我要咨询
   subName:  []
   url:      /2014/02/14/industrycenter
   class:    leo-nav-item
@@ -33,7 +33,7 @@ menuitems:
   subName:  []
   url:      /2014/02/14/integrationcenter
   class:    leo-nav-item
-- name:     工程案例
+- name:     用户案例
   subName:  []
   url:      /2014/02/14/solutioncenter
   class:    leo-nav-item
