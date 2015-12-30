@@ -24,10 +24,9 @@ categories: [aboutcenter]
 <hr>
 ![联系方式](/static/images/20100726115512322.jpg)
 <br>
-####地址：西安碑林区雁塔路中段43号 
-####店面：西安碑林区雁塔路中段1号颐高电脑城
+地址：西安碑林区雁塔路中段43号 
+店面：西安碑林区雁塔路中段1号颐高电脑城
 <br>
-####电话：<span class="glyphicon glyphicon-phone-alt"> </span>  029-62258029  
-	
+电话：<span class="glyphicon glyphicon-phone-alt"> </span>  029-62258029  
 <br>
-####手机：<span class="glyphicon glyphicon-earphone"> </span>  136-0926-2146
+手机：<span class="glyphicon glyphicon-earphone"> </span>  136-0926-2146
