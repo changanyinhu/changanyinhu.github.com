@@ -21,7 +21,7 @@ menuitems:
   subName:  []
   url:      /2014/02/14/newscenter
   class:    leo-nav-item
-- name:     产品介绍
+- name:     产品中心
   subName:  []
   url:      /2015/01/11/product-center
   class:    leo-nav-item
