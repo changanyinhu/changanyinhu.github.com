@@ -3,7 +3,7 @@ layout: about
 title: "关于我们 -- 首页"
 categories: [aboutcenter]
 ---
-###公司介绍
+####公司简介
 <hr>
 ![百度头条](/static/images/lxfs.jpg)
 <hr>
@@ -18,21 +18,21 @@ categories: [aboutcenter]
 <hr>
 &emsp;&emsp;西安庄朋电子科技有限公司秉承“秉承古今 、 质量服务”的经营理念，坚信令人信服和持之以恒的品质才是成功之根本。庄朋软件六年的发展到现在，主要服务区域：陕西、甘肃、宁夏、青海等几百家多家用户选择，您值得拥有！
 <hr>
-###庄朋企业文化：传播先进管理科学思想  提升企业的品牌价值！
+####庄朋企业文化：传播先进管理科学思想  提升企业的品牌价值！
 <hr>
-###联系方式；
+####联系方式；
 <hr>
 ![联系方式](/static/images/20100726115512322.jpg)
 <br>
-地址：西安碑林区雁塔路中段43号 
+####地址：西安碑林区雁塔路中段43号 
 <br>
 <br>
 <br>
-店面：西安碑林区雁塔路中段1号颐高电脑城
+####店面：西安碑林区雁塔路中段1号颐高电脑城
 <br>
 <br>
 <br>
-电话：<span class="glyphicon glyphicon-phone-alt"> </span>  029-62258029  
+####电话：<span class="glyphicon glyphicon-phone-alt"> </span>  029-62258029  
 <br>
-手机：<span class="glyphicon glyphicon-earphone"> </span>  136-0926-2146
+####手机：<span class="glyphicon glyphicon-earphone"> </span>  136-0926-2146
 <br>
