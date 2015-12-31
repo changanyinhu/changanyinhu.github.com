@@ -1,9 +1,9 @@
 ---
 layout: hardware
-title: "硬件产品线"
+title: "硬件设备"
 categories: [hardwarecenter]
 ---
-###硬件产品线 
+###硬件设备 
 <hr/>
 ####餐饮硬件：服务器、点菜宝、点菜宝基站、触摸屏电脑、平板电脑、热敏打印机、UPS不间断电源、会员卡、会员卡读卡器。
 <hr/>
