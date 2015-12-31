@@ -1,6 +1,6 @@
 ---
 layout: hotel
-title: "酒店产品线"
+title: "酒店管理系统"
 categories: [3i3i]
 ---
 ####酒店管理系统
