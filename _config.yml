@@ -96,13 +96,13 @@ homeDesc1:
 homeDescText2: 我们的优势
 homeDesc2:
 - imgs: canyin.jpg
-  text1: 餐饮行业软件
+  text1: 餐饮管理软件
   text2: 我要咨询
 - imgs: jdzx01.jpg
-  text1: 酒店宾馆行业软件
+  text1: 酒店宾馆管理软件
   text2: 我要咨询
 - imgs: jd.jpg
-  text1: 洗浴娱乐行业软件
+  text1: 洗浴娱乐管理软件
   text2: 我要咨询
 - imgs: wxdc01.jpg
   text1: 微信点菜软件
