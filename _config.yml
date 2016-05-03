@@ -112,13 +112,13 @@ homeDesc2:
 - imgs: wxdf01.jpg
   text1: 微信订房
   text2: 我要咨询 
--imgs: yycw1.jpg
+-imgs: yycw01.jpg
  text1: 财务软件
  text2: 我要咨询
-- imgs: zyoa1.jpg
+- imgs: zyoa01.jpg
   text1: 办公OA软件
   text2: 我要咨询
--imgs: wifi1.jpg
+-imgs: wifi01.jpg
   text1: 无线网络覆盖
   text2: 我要咨询
 homeDescText3: 我们竭诚为您服务：
